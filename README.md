@@ -39,14 +39,14 @@ I enjoy working with data to solve business problems, create interactive dashboa
 
 ---
 
-# 📂 Projects
+<h2 id="Projects" align=''> Projects </h2>
 
-| Project | Description |
-|---------|-------------|
-| **Business Failure Prediction** | Built a machine learning model to predict business failure risk using financial and operational datasets. |
-| **Customer Buying Behaviour Analysis** | Analyzed customer purchasing trends using Excel dashboards, Pivot Tables, and charts. |
-| **European Top 5 Football League Stats** | Developed an interactive Power BI dashboard analyzing player and team performance data. |
-| **Student Performance Analysis** | Created Tableau dashboards to analyze student marks, attendance, and academic trends. |
+| **Project** | **Description** |
+|-------------|-----------------|
+| **[Business Failure Prediction](https://github.com/)** | Built a machine learning model to predict business failure risk using financial and operational datasets. |
+| **[Customer Buying Behaviour Analysis](https://github.com/)** | Analyzed customer purchasing trends using Excel dashboards, Pivot Tables, and charts. |
+| **[European Top 5 League Stats 2022–23](https://github.com/ATHULRAJ36/European-Top-5-League-Stats-2022-23)** | Developed an interactive Power BI dashboard analyzing team and player performance across Europe’s top five leagues. |
+| **[Student Performance Analysis](https://github.com/)** | Created Tableau dashboards to analyze student marks, attendance, and academic trends. |
 
 ---
 
@@ -69,7 +69,7 @@ I enjoy working with data to solve business problems, create interactive dashboa
 
 # 🌐 Connect With Me
 
-<a href="www.linkedin.com/in/athulrajvp">
+<a href="https://linkedin.com/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
