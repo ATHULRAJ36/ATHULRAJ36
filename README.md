@@ -43,7 +43,7 @@ I enjoy working with data to solve business problems, create interactive dashboa
 
 | **Project** | **Description** |
 |-------------|-----------------|
-| **[Business Failure Prediction](https:https://github.com/ATHULRAJ36/EARLY-WARNING-SYSTEM-FOR-BUSINESS-FAILURE-)** | Built a machine learning model to predict business failure risk using financial and operational datasets. |
+| **[Business Failure Prediction](https://github.com/ATHULRAJ36/EARLY-WARNING-SYSTEM-FOR-BUSINESS-FAILURE-)** | Built a machine learning model to predict business failure risk using financial and operational datasets. |
 | **[Customer Buying Behaviour Analysis](https://github.com/)** | Analyzed customer purchasing trends using Excel dashboards, Pivot Tables, and charts. |
 | **[European Top 5 League Stats 2022–23](https://github.com/ATHULRAJ36/European-Top-5-League-Stats-2022-23)** | Developed an interactive Power BI dashboard analyzing team and player performance across Europe’s top five leagues. |
 | **[Student Performance Analysis](https://github.com/)** | Created Tableau dashboards to analyze student marks, attendance, and academic trends. |
